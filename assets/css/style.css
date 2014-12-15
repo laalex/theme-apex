@@ -1009,3 +1009,7 @@ div.footer ul li.link-icon a {
   line-height: 10pt;
   padding: 7px;
 }
+
+.site-description h4{
+    color:#fff !important;
+}
